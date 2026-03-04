@@ -1437,12 +1437,12 @@
     "url": "https://github.com/devnullvoid/dms-emoji-launcher"
   },
   "flatpakUpdates": {
-    "date": "2026-02-26T21:49:14-05:00",
+    "date": "2026-03-03T14:59:45-05:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-SHRmwgG3mXCIIuXTJI8wbVP4K8LW3tXeT/FNDEaJwNo=",
+    "hash": "sha256-ULsO985ldhyM7G5yUtAVbeDv6UjWPzWozIWJcpoCAhs=",
     "leaveDotGit": false,
     "meta": {
       "author": "Michael Erdely",
@@ -1466,12 +1466,12 @@
       "path": "FlatpakUpdates",
       "repo": "https://github.com/merdely/dms-plugins",
       "screenshot": "https://raw.githubusercontent.com/merdely/dms-plugins/main/screenshots/flatpakupdates-popout.png",
-      "version": "1.2.0"
+      "version": "1.2.1"
     },
-    "path": "/nix/store/3iva1hvg8g38mw6yd5n2s1wysxw8aza5-dms-plugins",
-    "rev": "afefd48be48c6815738141d56d7c9f5d7ea88607",
+    "path": "/nix/store/vgmp1axagfpknmka45wjr5zcidgnw7n0-dms-plugins",
+    "rev": "d788534db3438a6242c9a266f30af98adf214050",
     "rootDir": "",
-    "sha256": "1nn0i530qkgi9zgdbpnnq8mzhlvd627j9lz54a4716dp0716cx28",
+    "sha256": "06q20ad752c5rjl3agyn93lyzq3d2p854wkfxj61qxk5rvvhxfsh",
     "url": "https://github.com/merdely/dms-plugins"
   },
   "githubHeatmap": {

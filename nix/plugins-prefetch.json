@@ -257,12 +257,12 @@
     "url": "https://github.com/rochacbruno/DankCalculator"
   },
   "chineseCalendar": {
-    "date": "2026-02-27T00:02:03+08:00",
+    "date": "2026-03-31T13:35:13+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-VYqwIPzHn2sbAm/a35DS0pmbJlNu213+4prI00Ij4/4=",
+    "hash": "sha256-5LnLUn1uttyXtCPdH6i+V7TTc9Ji9/UGZkrcbR8sOQs=",
     "leaveDotGit": false,
     "meta": {
       "author": "xxyangyoulin",
@@ -289,10 +289,10 @@
       "screenshot": "https://raw.githubusercontent.com/xxyangyoulin/dms-plugin-ccal/master/assets/screenshot.png",
       "version": "1.2.1"
     },
-    "path": "/nix/store/zfb65dsxvmsy4swvwxgppnmr2rrv59zk-dms-plugin-ccal",
-    "rev": "4477daceab3c6360716a7fe223a6666f794905bc",
+    "path": "/nix/store/x1z7hl3838kbil4aldj8jb8fa67d1jhc-dms-plugin-ccal",
+    "rev": "123e4e2a8658cc61a36284a7add94f701e60a3fb",
     "rootDir": "",
-    "sha256": "1zp34d1d7j4swbz5vnvfack9p6fjsa8dznkg08dnp7y7zhhb12jm",
+    "sha256": "02rr5hgnvp2acq3gbxv2s9rx7d2ppsl1zp93njbxrdkfgm9cpfg4",
     "url": "https://github.com/xxyangyoulin/dms-plugin-ccal"
   },
   "claudeCodeUsage": {
@@ -1853,12 +1853,12 @@
     "url": "https://github.com/KangweiZhu/lyrics-on-panel"
   },
   "markets": {
-    "date": "2026-02-17T17:39:53+01:00",
+    "date": "2026-03-31T13:18:19+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-t466dbCpESl7YaNJaNkKSKxrHWqFmqQCmoOgxylQlDU=",
+    "hash": "sha256-HLunw6I7YkBe2v6Cy/Wr0LE0OiKWrgwvmi/H6ojPJr0=",
     "leaveDotGit": false,
     "meta": {
       "author": "TMS-Namespace",
@@ -1880,12 +1880,12 @@
       "name": "Markets",
       "repo": "https://github.com/TMS-Namespace/DMS-Markets-Plugin",
       "screenshot": "https://github.com/TMS-Namespace/DMS-Markets-Plugin/blob/main/Images/Dark-Popup.png",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
-    "path": "/nix/store/p4cc9yz9p3qf14x8mbnlxw1l1csv1a9r-DMS-Markets-Plugin",
-    "rev": "4babf553841bf92d268e989c2e8662bbc9d1ee8c",
+    "path": "/nix/store/0zhmnxvyh3abpr28rdw1b1gaxw062ri6-DMS-Markets-Plugin",
+    "rev": "d0a399ac5e3cb25f6d61d8dc1d4fb7e761bb771f",
     "rootDir": "",
-    "sha256": "0dcla0lwg843k81a96l5d8fnpb281bcnhjd3c5xjj4d9n1svm3mp",
+    "sha256": "1g96ry4fmirgk8phrbln48x39cfhmgswp0pyv9g40qivlb1sgfqw",
     "url": "https://github.com/TMS-Namespace/DMS-Markets-Plugin"
   },
   "mediaFrame": {

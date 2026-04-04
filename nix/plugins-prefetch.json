@@ -1631,12 +1631,12 @@
     "url": "https://github.com/TaylanTatli/dms-plugins"
   },
   "homeAssistantMonitor": {
-    "date": "2026-03-25T18:58:34+08:00",
+    "date": "2026-04-03T13:04:54+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-mUK06k5tBF9mvYKJK9AL6DkRfJ5VqPIrZzuqE2vt1K0=",
+    "hash": "sha256-7ak39g9RDK6uYNHNXGqKUXBrrPpqiVgGR+xNNhDtbBs=",
     "leaveDotGit": false,
     "meta": {
       "author": "xxyangyoulin",
@@ -1663,10 +1663,10 @@
       "screenshot": "https://raw.githubusercontent.com/xxyangyoulin/dms-plugin-hass/master/assets/screenshot.png",
       "version": "2.0.0"
     },
-    "path": "/nix/store/m5b1kmvvrbb1k6094hayhihjcd71w1hw-dms-plugin-hass",
-    "rev": "e2ab4740ff9ec89dc1996456d6c5b5af5e7fcea7",
+    "path": "/nix/store/nn2v1baxnlmk723yix21bwfxnxvhlq7k-dms-plugin-hass",
+    "rev": "266fcfb713bda5ecf84dc93f444c913ea9a1d6e5",
     "rootDir": "",
-    "sha256": "1bflxmmi7aivcwmz5a2mkry12fg81g82p2c2pmk5y13d9vmb8hlr",
+    "sha256": "06vcxl83ckgc8w35i2bazan6nw2ii9m5rkfic2paw32i1zv3gagd",
     "url": "https://github.com/xxyangyoulin/dms-plugin-hass"
   },
   "hueManager": {
@@ -2425,12 +2425,12 @@
     "url": "https://github.com/boutabong/dms-plugins"
   },
   "stockManager": {
-    "date": "2026-02-10T19:10:53+08:00",
+    "date": "2026-04-03T18:04:06+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-eLUnlXestYRIuo7qf31NkSD4BIruE0z5SvTCGUscCrw=",
+    "hash": "sha256-GHbsnWFSoyBE4OVNwicpc5G6s4w+ja7KZl2m0o+B1jA=",
     "leaveDotGit": false,
     "meta": {
       "author": "LeeMeng",
@@ -2456,10 +2456,10 @@
       "screenshot": "https://github.com/leemeng0x61/stockManager/raw/main/screenshot/sc.png",
       "version": "1.2.2"
     },
-    "path": "/nix/store/r1b68l0qn324bah2fg29xirkl27g0n85-stockManager",
-    "rev": "3844d642f176b413ed0ba3794ea862f67534bcd8",
+    "path": "/nix/store/mgb738nsw36hbp9xsdr386841hpl8xjz-stockManager",
+    "rev": "cbba650f97540015ff19fb29be5eb1cf0c8bdd81",
     "rootDir": "",
-    "sha256": "1g0a3i5ikhpl9bwlq4zfi82gh84i9mypzslfp9489ddcfyajgdbq",
+    "sha256": "0c6nh67x59jxcv5ax39yijrvm4bk54kw4kg5w12218sjc6fyqxhq",
     "url": "https://github.com/leemeng0x61/stockManager"
   },
   "tailscale": {

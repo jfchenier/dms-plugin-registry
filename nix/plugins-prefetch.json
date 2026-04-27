@@ -221,12 +221,12 @@
     "url": "https://github.com/pseudofractal/AsusControl"
   },
   "calculator": {
-    "date": "2026-02-12T18:45:29Z",
+    "date": "2026-04-26T20:40:15+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-bhV22bL38CJp58Y8tCY8sEBRYxmuk671fEymmdg0Yuk=",
+    "hash": "sha256-62Te69K3bcWNMJHdrg3nTryogo4g80Z7gyE9BZ1CG+Q=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bruno Cesar Rocha",
@@ -248,12 +248,12 @@
       "repo": "https://github.com/rochacbruno/DankCalculator",
       "requires_dms": ">=1.2.0",
       "screenshot": "https://github.com/rochacbruno/DankCalculator/raw/main/screenshot.png",
-      "version": "0.2.2"
+      "version": "0.2.3"
     },
-    "path": "/nix/store/gnf7wv9wrrplf5a6lvf58fav99dy4gd9-DankCalculator",
-    "rev": "07d7c123a5aee9ac4fd4347bbae36d5957b021f9",
+    "path": "/nix/store/plzin36ff8l2iwmcrb5rsz4js6vagby2-DankCalculator",
+    "rev": "b0c8799ded545615a38e6a6a088cf762aaa7857c",
     "rootDir": "",
-    "sha256": "1sb26kc9k9jcgkssx4xf35im2h5h7hkb8g66wxlj5w7pnbcpc5bf",
+    "sha256": "1r0v8afhag91hdxldwr0is1aig2fww6sxpci626wavdpsbmxwr7b",
     "url": "https://github.com/rochacbruno/DankCalculator"
   },
   "chineseCalendar": {
@@ -473,12 +473,12 @@
     "url": "https://github.com/AvengeMedia/dms-plugins"
   },
   "dankBitwarden": {
-    "date": "2026-04-25T20:56:11-04:00",
+    "date": "2026-04-26T02:38:53-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-DRgo+KS3qmE5Si2qEZ50+mQX0CBL3JR/7pPD+PH7RNs=",
+    "hash": "sha256-/O2QXF/0zNbSvkq5SwIyHdozcR39FNLc5CuFfeD3XBc=",
     "leaveDotGit": false,
     "meta": {
       "author": "Parthiv Seetharaman",
@@ -503,10 +503,10 @@
       "screenshot": "https://raw.githubusercontent.com/Pacman99/DankBitwarden/refs/heads/master/screenshot.png",
       "version": "1.0.0"
     },
-    "path": "/nix/store/aq3v6h3df60h9q0yyw8a8kj4diy1wfy3-DankBitwarden",
-    "rev": "5bd05a63d26dca28b601715919cce14a3114b107",
+    "path": "/nix/store/g9n2qiqkf29v79b1jg6ic2x3a5i9ay1z-DankBitwarden",
+    "rev": "3d70eb342750fe64f2baa8f69102992f2a644d98",
     "rootDir": "",
-    "sha256": "1ns4zgqzihwkxrzr9p2b4381fr7sfjg13aid98wn3amplkw2h60d",
+    "sha256": "05swyzh7v19bwkfd457x3mqk7nhx6814pfaapv9ddk7lbxf91vgw",
     "url": "https://github.com/pacman99/DankBitwarden"
   },
   "dankClight": {

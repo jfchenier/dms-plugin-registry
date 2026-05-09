@@ -2714,12 +2714,12 @@
     "url": "https://github.com/devnullvoid/dms-web-search"
   },
   "worldClock": {
-    "date": "2026-02-26T19:29:58Z",
+    "date": "2026-05-08T12:59:01+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-g1MB9gzYQYvn0LuGSbwAzqParC6XOKJK8PtttsdwF14=",
+    "hash": "sha256-FkOC8I5e3XVUyw9OUc2RQ81qnE58UkpHMoEMavkV7CQ=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bruno Cesar Rocha",
@@ -2742,12 +2742,12 @@
       "repo": "https://github.com/rochacbruno/WorldClock",
       "requires_dms": ">0.0.28",
       "screenshot": "https://github.com/rochacbruno/WorldClock/raw/main/screenshot.png",
-      "version": "1.2.0"
+      "version": "1.3.0"
     },
-    "path": "/nix/store/ivc13p36fys26wjdpydzkx5p7q48k28c-WorldClock",
-    "rev": "061752535b5b38f8290edb7108a25cb5f779d405",
+    "path": "/nix/store/pn3wn8lzncwchw515mzi5497jiank176-WorldClock",
+    "rev": "86612afc20a266521732e77239a90f91dd630990",
     "rootDir": "",
-    "sha256": "0phpf33vcvgvy15a4f4p5sndm8yf02y4k1mvs3kqnhfq1kv02lw3",
+    "sha256": "097c2pwnl341693lllkw9sf6mka3j76m2khgrda7bpayivq84hqn",
     "url": "https://github.com/rochacbruno/WorldClock"
   }
 }

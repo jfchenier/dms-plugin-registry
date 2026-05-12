@@ -221,12 +221,12 @@
     "url": "https://github.com/pseudofractal/AsusControl"
   },
   "calculator": {
-    "date": "2026-05-03T22:10:59+01:00",
+    "date": "2026-05-11T16:00:24+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-Ymf3Pxx+Y1SucuWniBjl61wDQjtGfaxi8zW0HA5mvpw=",
+    "hash": "sha256-hiqrO8WkzmWGVlUrzxmffUZBs4t1QM2mMTBUxZqCIyU=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bruno Cesar Rocha",
@@ -248,12 +248,12 @@
       "repo": "https://github.com/rochacbruno/DankCalculator",
       "requires_dms": ">=1.2.0",
       "screenshot": "https://github.com/rochacbruno/DankCalculator/raw/main/screenshot.png",
-      "version": "0.3.2"
+      "version": "0.3.3"
     },
-    "path": "/nix/store/z35g0740yazmhmsp7ifk2a4gzz4qbmyc-DankCalculator",
-    "rev": "998e52958ae7c319363537584804eb35a9c7859f",
+    "path": "/nix/store/xsjsav6glsyzh8hc6bhxs52kb42k9nsg-DankCalculator",
+    "rev": "73073d051d08254633f28f89d2609344c8289813",
     "rootDir": "",
-    "sha256": "175ycq71rd1mydiaqza67d106p7bwlc8i9z5fap58qvy3hzzfrv2",
+    "sha256": "0993hadcam1h66kcsh3mifrl2ikxkwcwyasmas36bkm4qlxsnal6",
     "url": "https://github.com/rochacbruno/DankCalculator"
   },
   "chineseCalendar": {
@@ -296,12 +296,12 @@
     "url": "https://github.com/xxyangyoulin/dms-plugin-ccal"
   },
   "claudeCodeUsage": {
-    "date": "2026-03-12T09:12:38+01:00",
+    "date": "2026-05-11T12:21:34+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-GX6S8zqfFWjtaoT+OiLmue3qd7kzttM1/X64U/jAAP8=",
+    "hash": "sha256-8tAyxl/Q0ZhHw1P0DTp5gCx9kW7Ju+PMX+1Fuiu05A8=",
     "leaveDotGit": false,
     "meta": {
       "author": "Nicolas Bellamy",
@@ -323,12 +323,12 @@
       "name": "Claude Code Usage",
       "repo": "https://github.com/titeya/dms-claudecode",
       "screenshot": "https://github.com/titeya/dms-claudecode/raw/master/screenshot.png",
-      "version": "1.1.4"
+      "version": "1.2.1"
     },
-    "path": "/nix/store/b16x06gfx7g8lxydpdkdg2r9jafqfppz-dms-claudecode",
-    "rev": "60cd495cb98321d99f4803dde44f50936b4d6878",
+    "path": "/nix/store/paqi6wk2hf7h58k9xv1f26m2khlrk1dj-dms-claudecode",
+    "rev": "fd96519334b7ef755b539ece233d8ccf15e0217f",
     "rootDir": "",
-    "sha256": "1zq0q3w57f3yzlsx7dikp5vymvdrwqi3mzl4dbnnh5cz7brr4zhr",
+    "sha256": "03z4nhmvligdbz6f7fy9ds8psb40g4x0vx2kqd3rilfhbz335l7j",
     "url": "https://github.com/titeya/dms-claudecode"
   },
   "commandRunner": {

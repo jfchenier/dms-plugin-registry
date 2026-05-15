@@ -1,11 +1,11 @@
 {
   "aiAssistant": {
-    "date": "2026-04-15T23:43:44-04:00",
+    "date": "2026-05-14T02:17:00-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-WNYACxpa3kwc/CVWY8QJ2sXFN/0uGuDc5kAhSSO3lew=",
+    "hash": "sha256-zrjxSo6qnoypJ8frZMRerZxmxdTZKW6qjDCDhjE5b+o=",
     "leaveDotGit": false,
     "meta": {
       "author": "devnullvoid",
@@ -31,12 +31,12 @@
       "repo": "https://github.com/devnullvoid/dms-ai-assistant",
       "requires_dms": ">=1.4.0",
       "screenshot": "https://github.com/devnullvoid/dms-ai-assistant/blob/main/screenshots/AI_ASSISTANT_SCREENSHOT_CURRENT_1.png?raw=true",
-      "version": "1.4.1"
+      "version": "1.5.0"
     },
-    "path": "/nix/store/r9293r60lv7l8vgalbbhiy67ij390pq7-dms-ai-assistant",
-    "rev": "fefaea8397de5f0828d75e1a6f275e989ec1811f",
+    "path": "/nix/store/skxyv6ldigx4a4kkgpzyhlim6qp23m6j-dms-ai-assistant",
+    "rev": "25b4b295b78cee40f51b3f614e94c245836c2102",
     "rootDir": "",
-    "sha256": "1v4mnwilj8a0wvff06ifzlvwbifs17266mi5zhf4rpjs385h1mjq",
+    "sha256": "1skg74qqd0rhijm6wafrsk2nd75dbv269sy74ylqr7mair5g3f6f",
     "url": "https://github.com/devnullvoid/dms-ai-assistant"
   },
   "alarmClock": {
@@ -332,12 +332,12 @@
     "url": "https://github.com/titeya/dms-claudecode"
   },
   "commandRunner": {
-    "date": "2026-04-15T23:26:20-04:00",
+    "date": "2026-05-14T02:15:38-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-l1LavTNDwAoQn4I+P6DfAsaz4nd5ngEbCaoHVQ47cWs=",
+    "hash": "sha256-Vl8yXoqSQX+aQbpj9UHlTHhOUfdgAfAXoOJRYk43y2Y=",
     "leaveDotGit": false,
     "meta": {
       "author": "devnullvoid",
@@ -357,12 +357,12 @@
       "name": "Command Runner",
       "repo": "https://github.com/devnullvoid/dms-command-runner",
       "screenshot": "https://github.com/devnullvoid/dms-command-runner/blob/main/screenshot.png?raw=true",
-      "version": "1.3.0"
+      "version": "1.4.0"
     },
-    "path": "/nix/store/nisrfsi3r6z5b3dw30v0bqbzqlqba9n1-dms-command-runner",
-    "rev": "5e640d23dfdff291ee061b854fa4ee74b1984bf9",
+    "path": "/nix/store/6vzh4fa0ms9i0la5bssa7ky5fwk0549s-dms-command-runner",
+    "rev": "6867e51673b5b211253ecf0d89dda6b86e1ba97e",
     "rootDir": "",
-    "sha256": "0svi7c75a1xa14dh37krfzib7ih2vyh3ygl2kw80mh236fyxlllp",
+    "sha256": "0rnb6x764lg2l0bz00b0yx8lwy2cwm0zaqxs86d7yhcji9g34psn",
     "url": "https://github.com/devnullvoid/dms-command-runner"
   },
   "customRunningApps": {

@@ -1256,12 +1256,12 @@
     "url": "https://github.com/leonardofranco01/dms-sessionizer"
   },
   "dockerManager": {
-    "date": "2026-06-09T13:33:21-03:00",
+    "date": "2026-06-09T22:51:38-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-P9YCgQwmxPKCvHT18XziTxZXiZfHQQ/FRNGzUxNZWiw=",
+    "hash": "sha256-vkwo4bMdtiCMVHcx1RFRvNxIIzoKuuAzPTcZBMRHKD8=",
     "leaveDotGit": false,
     "meta": {
       "author": "LuckShiba",
@@ -1288,10 +1288,10 @@
       "screenshot": "https://raw.githubusercontent.com/LuckShiba/DmsDockerManager/main/assets/screenshot.png",
       "version": "1.3.0"
     },
-    "path": "/nix/store/x080w59vckz20zlwmbihwn17h46v5c50-DmsDockerManager",
-    "rev": "5f2d35e25ae5aebed3fbe7d913b08517581b8ea3",
+    "path": "/nix/store/sjf3vb4wqz2603qd5ms0g3mmwcjgkk79-DmsDockerManager",
+    "rev": "e25fed8ef704620656981ef2f0709f51ca58823d",
     "rootDir": "",
-    "sha256": "0b2sb49m7cyi8k2hyhf7jy4mf5jgw9yg3xblpj1g5i161j0h5miz",
+    "sha256": "0gr88z20869p7lry1fha78ilip5wa48xacbpaj621dhxnghjhk5y",
     "url": "https://github.com/LuckShiba/DmsDockerManager"
   },
   "dolarBlue": {

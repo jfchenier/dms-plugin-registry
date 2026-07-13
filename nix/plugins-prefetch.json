@@ -78,12 +78,12 @@
     "url": "https://github.com/lucyfire/dms-plugins"
   },
   "amdGpuMonitor": {
-    "date": "2026-07-11T19:04:22+02:00",
+    "date": "2026-07-12T14:55:08+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-wHg1m0cqAeM7nporbHjyE9Q/KH5BteIKWZ41T9Ybt6g=",
+    "hash": "sha256-/xZQAs2S49uer/RjpzIrHjtFiBQaG38ZvhcAnEjhZhA=",
     "leaveDotGit": false,
     "meta": {
       "author": "navidagz",
@@ -107,10 +107,10 @@
       "screenshot": "https://raw.githubusercontent.com/navidagz/dms-amd-gpu-monitor/refs/heads/main/screenshot.png",
       "version": "3.1.0"
     },
-    "path": "/nix/store/d63jhgfnlazp7h92h8f102p6kvryfywa-dms-amd-gpu-monitor",
-    "rev": "3a2de757ffa8f90ee6401147929103b4bfad7776",
+    "path": "/nix/store/4ygavp81qakipvvyl8vffwplrnh1n9kv-dms-amd-gpu-monitor",
+    "rev": "1ab6a486f36e540668d72bc0217acacc0a3b24e1",
     "rootDir": "",
-    "sha256": "1a5p3gb4ydcyb45f5da1gql3zm0ky9w6qawskqxy609a8ydkay60",
+    "sha256": "0436w549q00ppqcpy6qs2j44afqy5crafqzlmygdpqwjrl1505pz",
     "url": "https://github.com/navidagz/dms-amd-gpu-monitor"
   },
   "animeCalendar": {
@@ -1367,12 +1367,12 @@
     "url": "https://github.com/MetalCar/dms-dooit-widget"
   },
   "easyEffects": {
-    "date": "2026-06-26T15:17:32+02:00",
+    "date": "2026-07-12T11:52:16+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-FuDIMFZx9KvygoX/otnhrVBSd+NiswzFRU2TSp/kyKg=",
+    "hash": "sha256-wYpDoPfbxIh823bOUuX3uPqn+jl2d8uJw9YI/dxR+HI=",
     "leaveDotGit": false,
     "meta": {
       "author": "jonkristian",
@@ -1394,12 +1394,12 @@
       "name": "Easy Effects Profile Switcher",
       "repo": "https://github.com/jonkristian/dms-easyeffects",
       "screenshot": "https://github.com/jonkristian/dms-easyeffects/blob/main/screenshot.png?raw=true",
-      "version": "1.1.0"
+      "version": "1.1.1"
     },
-    "path": "/nix/store/2s98fj719ah4sy0m5lksq9nl47hxpwp8-dms-easyeffects",
-    "rev": "1c132bf974bcc43db974c7e337b6c6c23526c680",
+    "path": "/nix/store/0nn4y4jrfc0hglrnkjn9qjx4sgafhh4n-dms-easyeffects",
+    "rev": "f3ec5779eab67d24b05b2261e76cb0a60df81654",
     "rootDir": "",
-    "sha256": "1a68wjglm4sd8p2hrcv2wdvm4l5dw7cs5zw5hbrapx3iaqqciq0n",
+    "sha256": "0wpqa7fgs26nqf4wnxvn77xagymqyzjm5kknvdy8ii6vyyh472n1",
     "url": "https://github.com/jonkristian/dms-easyeffects"
   },
   "emojiLauncher": {
@@ -1516,12 +1516,12 @@
     "url": "https://github.com/boutabong/dms-plugins"
   },
   "gitlabNotifier": {
-    "date": "2026-07-11T01:31:20-03:00",
+    "date": "2026-07-12T23:41:11-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-uUcJuRq5WKgofookdFblqt6ydqYcr3I7nMRH6KBYdzY=",
+    "hash": "sha256-Ch2ji5clz2MUcJTj2S9wLLrshn0Wnm1ikcBk/Es0TX4=",
     "leaveDotGit": false,
     "meta": {
       "author": "psyreactor",
@@ -1545,12 +1545,12 @@
       "repo": "https://github.com/psyreactor/dms-gitlabNotifier",
       "requires_dms": ">0.0.28",
       "screenshot": "https://github.com/psyreactor/dms-gitlabNotifier/raw/main/screenshot.png",
-      "version": "1.2.0"
+      "version": "1.2.1"
     },
-    "path": "/nix/store/nih0hkz20y9wjhbij1wsyc155yyfhpqx-dms-gitlabNotifier",
-    "rev": "7134f421f18f76a34852b179a9bb85f0e2c80b4f",
+    "path": "/nix/store/6hi6yb2833hm24rfimx4j31q81fmbzw6-dms-gitlabNotifier",
+    "rev": "4191319569c7b95f0f150c70c410c6aaca892a53",
     "rootDir": "",
-    "sha256": "0dkpb2hfhiy4khxp5bqwlrvb5pmawmb7894agqlahn5r3awhjixr",
+    "sha256": "0zjd6i5zqr60j5i6v7hngn3frficf0pxkqwlf0a67kr5jy5s678a",
     "url": "https://github.com/psyreactor/dms-gitlabNotifier"
   },
   "gitmojiLauncher": {
@@ -1631,12 +1631,12 @@
     "url": "https://github.com/TaylanTatli/dms-plugins"
   },
   "homeAssistantMonitor": {
-    "date": "2026-07-10T13:27:04+08:00",
+    "date": "2026-07-13T09:58:09+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-ugvnYbZOq/F5pOqnZrNuRhLIOFxASpvUNcWxOJWkaWE=",
+    "hash": "sha256-woLXMu5/t/mADIG1svWNifuo3ypZMJ94ee44+kBCXK4=",
     "leaveDotGit": false,
     "meta": {
       "author": "xxyangyoulin",
@@ -1661,12 +1661,12 @@
       "repo": "https://github.com/xxyangyoulin/dms-plugin-hass",
       "requires_dms": ">=1.2.0",
       "screenshot": "https://raw.githubusercontent.com/xxyangyoulin/dms-plugin-hass/master/assets/screenshot.png",
-      "version": "2.0.5"
+      "version": "2.0.6"
     },
-    "path": "/nix/store/dqx5jgxndsdkmbxqyday677y233vssjn-dms-plugin-hass",
-    "rev": "2c3697e44e25bd91315a10aaa746f22289d812c1",
+    "path": "/nix/store/0wb9r7jjzk0cihqqag4zlwcpip0vg703-dms-plugin-hass",
+    "rev": "3cef9b5a66f2d2010ee5e2fe49456b0aed32c003",
     "rootDir": "",
-    "sha256": "0qb9ljakicf56pa9njj0bhwch4j6dsrnd9zaliwz3asfnrhyf2xs",
+    "sha256": "1bjw890glf7fg5w9yc2r5bgsiyw9ipsv5dc11j0gkdvzxqrdg0n2",
     "url": "https://github.com/xxyangyoulin/dms-plugin-hass"
   },
   "hueManager": {

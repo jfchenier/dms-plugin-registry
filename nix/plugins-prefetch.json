@@ -1,11 +1,11 @@
 {
   "aiAssistant": {
-    "date": "2026-07-18T16:13:06-04:00",
+    "date": "2026-07-19T21:57:53-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-ZAue+mWacaZ4MTb+5cs1EhqKGTH5/vCkoH7AlW3r2wk=",
+    "hash": "sha256-syTIIX83F3T2+1FBTk3Cx9GvbGPvDWaNm3qZHOXcTWk=",
     "leaveDotGit": false,
     "meta": {
       "author": "devnullvoid",
@@ -31,12 +31,12 @@
       "repo": "https://github.com/devnullvoid/dms-ai-assistant",
       "requires_dms": ">=1.4.0",
       "screenshot": "https://github.com/devnullvoid/dms-ai-assistant/blob/main/screenshots/AI_ASSISTANT_SCREENSHOT_CURRENT_1.png?raw=true",
-      "version": "1.6.1"
+      "version": "1.7.0"
     },
-    "path": "/nix/store/2y9rdqbl77fgbsbyxjphxr9q9fkgjqi3-dms-ai-assistant",
-    "rev": "a65e2f7dd87241b6e49f88a34aa1f3af4542b190",
+    "path": "/nix/store/6g0diyxq5jgx4pfkp0b3k24da10zbvfr-dms-ai-assistant",
+    "rev": "48c0ad9390c34ac43556ca39c8e4e938d6d3e2c6",
     "rootDir": "",
-    "sha256": "02fvxdnrbh3yl2jg1zpr64cql6hj6p5ybzin65wacwcscpx9w2v4",
+    "sha256": "0sadvkjir6bskf6nc3ggcdnazlf7q96lwhaizgv785rpgwhwh95k",
     "url": "https://github.com/devnullvoid/dms-ai-assistant"
   },
   "alarmClock": {

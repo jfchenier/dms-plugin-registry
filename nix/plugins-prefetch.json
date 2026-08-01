@@ -296,12 +296,12 @@
     "url": "https://github.com/xxyangyoulin/dms-plugin-ccal"
   },
   "claudeCodeUsage": {
-    "date": "2026-07-08T17:56:14+02:00",
+    "date": "2026-07-31T10:26:33+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-7jCJnNDQPHY+7iaYTv/i3EhqzV/HdguX+TYjaDsh2rw=",
+    "hash": "sha256-/uyWmfbahUkbOPjzW7RRcWJrRR245Pc6cnhPyWeDg0g=",
     "leaveDotGit": false,
     "meta": {
       "author": "Nicolas Bellamy",
@@ -323,12 +323,12 @@
       "name": "Claude Code Usage",
       "repo": "https://github.com/titeya/dms-claudecode",
       "screenshot": "https://github.com/titeya/dms-claudecode/raw/master/screenshot.png",
-      "version": "1.2.2"
+      "version": "1.3.4"
     },
-    "path": "/nix/store/din1g9acl5w6mdpjwkq8g8vvdzdwfaj7-dms-claudecode",
-    "rev": "f3f28ca10e2c20226b0975346d3e8b70abb1e8cb",
+    "path": "/nix/store/krxgx3hgi331rxxv6pvp5dh3dy418mf0-dms-claudecode",
+    "rev": "ff28fd3fbf58e196242ed1b340de5d5feef04e85",
     "rootDir": "",
-    "sha256": "1g6s44xnh8rnz6bhnxn7bz6nlj6wwbzlx616xqz7cg6hs2f8jc7f",
+    "sha256": "0j43hdkwjkvqf8xggr5q3m2nnqkia6s5pwzq70dlk1fsyscrdv7y",
     "url": "https://github.com/titeya/dms-claudecode"
   },
   "commandRunner": {
@@ -1780,12 +1780,12 @@
     "url": "https://github.com/psyreactor/dms-kubernetes"
   },
   "linuxWallpaperEngine": {
-    "date": "2026-07-23T20:41:47+03:00",
+    "date": "2026-07-31T17:40:58+03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-ZmtFxyhEcHFIJJcJdW1HulAHpX8ygif64S12P9ZmDIM=",
+    "hash": "sha256-vFkGT28Wve3WdP4nJCAxqxNspnH5Yt0kY/c/1IS5WQc=",
     "leaveDotGit": false,
     "meta": {
       "author": "sgtaziz",
@@ -1808,12 +1808,12 @@
       "name": "Linux Wallpaper Engine",
       "repo": "https://github.com/sgtaziz/dms-wallpaperengine",
       "screenshot": "https://raw.githubusercontent.com/sgtaziz/dms-wallpaperengine/refs/heads/main/screenshot.png",
-      "version": "1.1.0"
+      "version": "1.1.1"
     },
-    "path": "/nix/store/k07alkwifbrvrp0spsvdcf7pwqw9bshg-dms-wallpaperengine",
-    "rev": "5a43e5b1384ab0a74ab45db76c454fbefede5177",
+    "path": "/nix/store/3c8gp3dvbild8j9a4c0alip02b592hza-dms-wallpaperengine",
+    "rev": "92f5d1be3989cf49cdb5e180323125f996977db2",
     "rootDir": "",
-    "sha256": "10qccvb3yxidw7x2g0ijgyjhfl5s8xnpa2cp4i472w24533lasv6",
+    "sha256": "01srp62d8gzpccjdsqprf6k6q4xb64h289zyfkbfvg8ndx7hcndw",
     "url": "https://github.com/sgtaziz/dms-wallpaperengine"
   },
   "lyricsOnPanel": {
@@ -2277,12 +2277,12 @@
     "url": "https://github.com/jonkristian/dms-pulsar-x3"
   },
   "sathiAi": {
-    "date": "2026-07-30T11:43:33-04:00",
+    "date": "2026-07-31T22:29:07-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-slYJmfRyzOG2v/jfMeo0d6U2Qx5CqNu3G18KJGSMCJU=",
+    "hash": "sha256-VAPclvsTMb1zGbZ6EL5rxENRFTWj5ktaP+hyyYzOtrI=",
     "leaveDotGit": false,
     "meta": {
       "author": "SSingh44",
@@ -2303,12 +2303,12 @@
       "name": "Sathi.AI",
       "repo": "https://github.com/ss44/sathi.ai",
       "screenshot": "https://raw.githubusercontent.com/ss44/sathi.ai/refs/heads/master/assets/screenshot-01.png",
-      "version": "1.6.2"
+      "version": "1.9.0"
     },
-    "path": "/nix/store/ahvj3icpjx23451ky15l899qy4g75zig-sathi.ai",
-    "rev": "a9beb2e3e3967ed0410f318e68066d9aaaadd4a9",
+    "path": "/nix/store/bsrz767yy8b14bpik9n20p6fyaadn1wd-sathi.ai",
+    "rev": "b767c9ce7ada8267b85dcfdf1630735f836ca02a",
     "rootDir": "",
-    "sha256": "1588iij282jz3fvxpa223r1kd9bp6km33pzqpyvf3k3jyjchjmmj",
+    "sha256": "1cmnrs6cjwp87xd4prm36lam2hy4dfz10ymn35rvsc8kzfbdq0sl",
     "url": "https://github.com/ss44/sathi.ai"
   },
   "screenshotToggle": {

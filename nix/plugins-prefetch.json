@@ -2277,12 +2277,12 @@
     "url": "https://github.com/jonkristian/dms-pulsar-x3"
   },
   "sathiAi": {
-    "date": "2026-07-31T22:29:07-04:00",
+    "date": "2026-08-02T15:42:47-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-VAPclvsTMb1zGbZ6EL5rxENRFTWj5ktaP+hyyYzOtrI=",
+    "hash": "sha256-WK+US89e1U28O33/kuMdtIpU1Bsqxgm+71VUu6cuyJs=",
     "leaveDotGit": false,
     "meta": {
       "author": "SSingh44",
@@ -2303,12 +2303,12 @@
       "name": "Sathi.AI",
       "repo": "https://github.com/ss44/sathi.ai",
       "screenshot": "https://raw.githubusercontent.com/ss44/sathi.ai/refs/heads/master/assets/screenshot-01.png",
-      "version": "1.9.0"
+      "version": "1.10.0"
     },
-    "path": "/nix/store/bsrz767yy8b14bpik9n20p6fyaadn1wd-sathi.ai",
-    "rev": "b767c9ce7ada8267b85dcfdf1630735f836ca02a",
+    "path": "/nix/store/b6ypj0x803xr945fvi46fg2hk63xaqx2-sathi.ai",
+    "rev": "d1a386d083f15b827d258b5ea59f3ba4154b59f1",
     "rootDir": "",
-    "sha256": "1cmnrs6cjwp87xd4prm36lam2hy4dfz10ymn35rvsc8kzfbdq0sl",
+    "sha256": "16y85skvnm2mxyz0kiia3ga592ml3pir5zvx7fy4vmayrx5r9bsq",
     "url": "https://github.com/ss44/sathi.ai"
   },
   "screenshotToggle": {

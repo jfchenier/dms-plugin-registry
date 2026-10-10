@@ -1,0 +1,21 @@
+{
+  "id": "volumeMixer",
+  "name": "Volume Mixer",
+  "description": "Standalone volume mixer for your bar",
+  "version": "1.1.0",
+  "author": "cwel",
+  "repo": "https://github.com/cwelsys/dms-volume-mixer",
+  "capabilities": [
+    "dankbar-widget"
+  ],
+  "category": "utilities",
+  "requires_dms": ">=1.5.0",
+  "dependencies": [],
+  "compositors": [
+    "any"
+  ],
+  "distro": [
+    "any"
+  ],
+  "screenshot": "https://raw.githubusercontent.com/cwelsys/dms-volume-mixer/main/assets/screenshot.png"
+}

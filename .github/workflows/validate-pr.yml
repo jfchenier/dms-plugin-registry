@@ -47,7 +47,8 @@ jobs:
       - name: Get changed plugin files
         id: changed
         run: |
-          ALL_CHANGED=$(gh pr diff ${{ github.event.pull_request.number }} --name-only)
+          # The files API paginates; `gh pr diff` fails on PRs touching more than 300 files.
+          ALL_CHANGED=$(gh api --paginate "repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files" --jq '.[].filename')
           CHANGED=$(echo "$ALL_CHANGED" | grep '^plugins/' || true)
           if [ -n "$CHANGED" ]; then
             echo "files<<EOF" >> "$GITHUB_OUTPUT"
